@@ -15,10 +15,11 @@
 * Java
 * Core Java
 * Object-Oriented Programming (OOP)
-* Data Structures & Algorithms (DSA)
+* Basic Data Structures & Algorithms (DSA)
 * MySQL
 * Spring Boot
 * Git & GitHub
+* PostMan
 
 ---
 
