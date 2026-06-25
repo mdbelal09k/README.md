@@ -44,11 +44,11 @@ MySQL
 
 ### Tools & Platforms
 
-Git | GitHub | Postman | VS Code | IntelliJ IDEA
+Git | GitHub | Postman | VS Code | IntelliJ IDEA |Eclipse
 
 ### Concepts
 
-Object-Oriented Programming (OOP) | Data Structures & Algorithms (DSA)
+Object-Oriented Programming (OOP) | Basic Data Structures & Algorithms (DSA)
 
 ---
 
@@ -58,6 +58,7 @@ Object-Oriented Programming (OOP) | Data Structures & Algorithms (DSA)
 * Microservices Architecture
 * System Design
 * Backend Performance Optimization
+* Spring MVC
 
 ---
 
@@ -106,7 +107,7 @@ I'm always interested in:
 * Learning New Technologies
 * Collaborating on Software Development Projects
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 Email: mdbelalquraishi9546@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/mdbelal09k
 
