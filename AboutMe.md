@@ -1,34 +1,63 @@
 # Hi 👋, I'm MD BELAL
 
-## 🚀 About Me
+## 🚀 Java Backend Developer
 
-💻 Passionate Java Developer focused on Backend Engineering.
+Welcome to my GitHub! I'm a passionate Java Developer focused on building scalable backend applications and continuously improving my software development and problem-solving skills.
 
-🌱 Currently learning and building projects using Java and Spring Boot.
+I enjoy developing real-world applications using Java and modern backend technologies while following clean coding practices and industry standards.
 
-🎯 Looking for Internship and Entry-Level Software Developer opportunities.
+## 🎯 What I Do
 
----
+### ☕ Backend Development
 
-## 🛠️ Skills
-
-* Java
 * Core Java
-* Object-Oriented Programming (OOP)
-* Basic Data Structures & Algorithms (DSA)
-* MySQL
 * Spring Boot
-* Git & GitHub
-* PostMan
+* REST API Development
+* MySQL Database Design
+* Object-Oriented Programming (OOP)
+* CRUD Application Development
+
+### 💻 Software Development
+
+* Building scalable backend applications
+* Database integration and management
+* API development and testing
+* Problem-solving using Data Structures & Algorithms
+
+## 🛠️ Tech Stack
+
+### Languages
+
+Java | JavaScript | SQL
+
+### Backend Technologies
+
+Spring Boot | REST APIs
+
+### Frontend Technologies
+
+HTML | CSS | JavaScript | React.js
+
+### Database
+
+MySQL
+
+### Tools & Platforms
+
+Git | GitHub | Postman | VS Code | IntelliJ IDEA
+
+### Concepts
+
+Object-Oriented Programming (OOP) | Data Structures & Algorithms (DSA)
 
 ---
 
 ## 📚 Currently Learning
 
 * Advanced Spring Boot
-* Backend Development
-* REST APIs
+* Microservices Architecture
 * System Design
+* Backend Performance Optimization
 
 ---
 
@@ -36,28 +65,61 @@
 
 ### 📖 BookApp
 
-A simple book management application built using Java.
+A book management application developed using Java and Spring Boot for managing books efficiently.
 
 ### 🏦 Bank Management System
 
-A Java-based banking application for managing customer accounts and transactions.
+A Java-based banking application for managing customer accounts, transactions, and banking operations.
 
 ### 📝 AI Notes Generator
 
-An application that helps generate notes efficiently.
+An application designed to generate notes efficiently and improve productivity.
 
 ### 📋 Smart Task and Project Management System
 
-A task and project management application developed using Java.
+A project and task management application developed to organize tasks and improve workflow efficiency.
 
 ---
 
-## 📫 Connect With Me
+## 🔐 Development Practices
 
-* GitHub: https://github.com/mdbelal09k
-* LinkedIn: https://www.linkedin.com/in/mdbelal09k
+✅ Clean Code Principles
+
+✅ Object-Oriented Design
+
+✅ RESTful API Development
+
+✅ Version Control using Git & GitHub
+
+✅ Database Normalization and Optimization
+
+✅ Continuous Learning and Problem Solving
 
 ---
+
+## 🤝 Let's Connect & Collaborate
+
+I'm always interested in:
+
+* Java Backend Development Projects
+* Open Source Contributions
+* Learning New Technologies
+* Collaborating on Software Development Projects
+
+📧 Email: [your-email@example.com](mailto:your-email@example.com)
+
+💼 LinkedIn: https://www.linkedin.com/in/mdbelal09k
+
+🌐 GitHub: https://github.com/mdbelal09k
+
+---
+
+## 🚀 Current Focus
+
+* Building scalable backend applications using Spring Boot
+* Strengthening Data Structures & Algorithms skills
+* Exploring Microservices and System Design
+* Preparing for Software Engineer roles
 
 ## ⚡ Fun Fact
 
